@@ -2,9 +2,9 @@
 
 ---
 
-**🚀 Drug Recommendation System**
+**💊 Drug Recommendation System**
 
-🌟 Overview
+**🌟 Overview**
 
 The Drug Recommendation System is an AI-powered tool that suggests suitable drugs based on patient reviews and medical conditions. It integrates Machine Learning (ML) and Natural Language Processing (NLP) to analyze drug effectiveness, sentiment, and patient feedback.
 
@@ -56,10 +56,10 @@ This system helps healthcare professionals and patients make informed decisions 
 
 Feel free to reach out if you have any questions:
 
-Creator: Vyshnavi Ellendula  
-Email: vysh785@gmail.com  
-LinkedIn: www.linkedin.com/in/vyshnavi-ellendula-a02637294  
+**Creator:** Vyshnavi Ellendula  
+**Email:** vysh785@gmail.com  
+**LinkedIn:** www.linkedin.com/in/vyshnavi-ellendula-a02637294  
 
-🚀 Happy Coding & Stay Healthy! 💊
+Happy Coding & Stay Healthy! 
 
 ---
